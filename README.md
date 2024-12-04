@@ -16,12 +16,7 @@ Welcome to the my first **High Seas Project**!
 - 😃 **Enjoyable Experience:** The random styles and engaging content keep you entertained while you practice.
 
 ## Getting Started
-
-Instructions to get started with the project.
-
-## Installation
-
-Steps to install and run the project.
+Just check out the website here: http://type.karthik.lol/ (I know it's unsecured but I got the domain just an hour ago so give it some time to propogate, I'll make it secure soon :))
 
 ## Contributing
 
